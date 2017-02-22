@@ -1,1 +1,2 @@
-# PythonGame
+
+# Python Game inspired by Android game like WordCookie 
