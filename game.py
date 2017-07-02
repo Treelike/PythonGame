@@ -13,7 +13,7 @@ cl=[]#complete list
 pt=[]#points or gold
 h=[]#hint
 def start():
-    global cl,pt,two
+
     print '\nSeperate with Two Letters only'
     while 1:
         for itr in cl:
@@ -59,7 +59,7 @@ def start():
             level2()
             
 def level2():
-    global cl,pt,four
+
     print '\nSeperate with Four Letters and one with Five'
     while 1:
         for itr in cl:
@@ -105,7 +105,7 @@ def level2():
             level3()
             
 def level3():
-    global cl,pt,three
+
     print '\nSeperate with Three Letters only'
     while 1:
         for itr in cl:
